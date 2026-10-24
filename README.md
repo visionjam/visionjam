@@ -1,6 +1,6 @@
 # VisionJam
 
-**兴趣第一。**
+**兴趣导向**
 
 - [博客](https://visionjam.github.io) — VisionJam 的个人博客，记录思考、技术与生活。
 - [知乎归档](https://visionjam.github.io/zhihu-archive/) — 我在知乎发布的回答、想法与文章归档。
